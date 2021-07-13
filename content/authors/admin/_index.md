@@ -10,27 +10,24 @@ role: Business Intelligence / Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Charles Schwab, Boston University
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Shiny Apps
+- Data Visualization
 
 # Education to show in About widget
 education:
   courses:
   - course: Master of Science, Applied Data Analytics
     institution: Boston University
-    year: 2021
   - course: Bachelor of Arts, Art History
     institution: Baldwin Wallace University
-    year: 2014
 
 
 # Social/Academic Networking
@@ -43,16 +40,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/shroyer_data
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/max-shroyer
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/max-shroyer/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -68,8 +62,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+An experienced data and business intelligence analyst, I am passionate about using data to solve complex problems with actionable insights. In addition to my work as a business intelligence analyst at Charles Schwab, I also facilitate for online courses for Boston University's MET Graduate Computer Science program, where I function as a teaching assistant for R courses. I enjoy not only acting as an educator in this role, but also as a student advocate and cheerleader to help them succeed as data analysts and scientists.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+This website serves to showcase some of my projects and highlight the work I do in my free time.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
