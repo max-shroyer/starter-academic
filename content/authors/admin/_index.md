@@ -62,8 +62,8 @@ email: ""
 highlight_name: false
 ---
 
-An experienced data and business intelligence analyst, I am passionate about using data to solve complex problems with actionable insights. In addition to my work as a business intelligence analyst at Charles Schwab, I also facilitate for online courses for Boston University's MET Graduate Computer Science program, where I function as a teaching assistant for R courses. I enjoy not only acting as an educator in this role, but also as a student advocate and cheerleader to help them succeed as data analysts and scientists.
+An experienced data and business intelligence analyst, I am passionate about using data to solve complex problems with actionable insights. In addition to my work as a business intelligence analyst at Charles Schwab, I also facilitate for online courses for Boston University's MET Graduate Computer Science program, where I function as a teaching assistant for R courses. I enjoy not only acting as an educator in this role, but also as a student advocate and cheerleader to help them become successful data analysts and data scientists.
 
 This website serves to showcase some of my projects and highlight the work I do in my free time.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
